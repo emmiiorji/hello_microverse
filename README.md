@@ -20,9 +20,10 @@ To get a local copy up and running just download and open on a browser.
 
 
 ## Author
+Emmanuel Orji-Ihuoma
 
-- GitHub: [@githubhandle](https://github.com/emmiiorji)
-- Twitter: [@twitterhandle](https://twitter.com/emmiiorji)
+- GitHub: [@emmiiorji](https://github.com/emmiiorji)
+- Twitter: [@emmiiorji](https://twitter.com/emmiiorji)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emmanuel-orji-2a8317121)
 
 
